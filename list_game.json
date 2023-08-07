@@ -2018,21 +2018,21 @@
     },
     {
       "name": "samp.etc.dat",
-      "size": "33243154",
+      "size": "33583364",
       "path": "texdb/samp/samp.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.dat",
       "gpu": "all"
     },
     {
       "name": "samp.etc.tmb",
-      "size": "538176",
+      "size": "21536",
       "path": "texdb/samp/samp.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.etc.toc",
-      "size": "6176",
+      "size": "6184",
       "path": "texdb/samp/samp.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.toc",
       "gpu": "all"
@@ -2053,7 +2053,7 @@
     },
     {
       "name": "samp.txt",
-      "size": "89592",
+      "size": "89764",
       "path": "texdb/samp/samp.txt",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.txt",
       "gpu": "all"

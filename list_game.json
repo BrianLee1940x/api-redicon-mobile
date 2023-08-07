@@ -1717,7 +1717,7 @@
     },
     {
       "name": "settings.json",
-      "size": "165",
+      "size": "53",
       "path": "SAMP/settings.json",
       "url": "http://43.229.79.123/api/mobile/DATA/SAMP/settings.json",
       "gpu": "all"

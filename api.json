@@ -1,4 +1,5 @@
 {
     "url_launcher": "http://43.229.79.123/api/mobile/APK/app-debug.apk",
     "version_launcher": "0.0.1",
+    "url_game": "http://43.229.79.123/api/mobile/list_game.json"
 }

@@ -353,7 +353,7 @@
     {
       "name": "CINFO.BIN",
       "size": "634084",
-      "path": "game/CINFO.BIN",
+      "path": "CINFO.BIN",
       "url": "http://43.229.79.123/api/mobile/DATA/CINFO.BIN",
       "gpu": "all"
     },
@@ -1606,28 +1606,28 @@
     {
       "name": "GTASAMP10.b",
       "size": "195000",
-      "path": "game/GTASAMP10.b",
+      "path": "GTASAMP10.b",
       "url": "http://43.229.79.123/api/mobile/DATA/GTASAMP10.b",
       "gpu": "all"
     },
     {
       "name": "gtasatelem.set",
       "size": "392",
-      "path": "game/gtasatelem.set",
+      "path": "gtasatelem.set",
       "url": "http://43.229.79.123/api/mobile/DATA/gtasatelem.set",
       "gpu": "all"
     },
     {
       "name": "GTASGTASAMP10.b",
       "size": "195000",
-      "path": "game/GTASGTASAMP10.b",
+      "path": "GTASGTASAMP10.b",
       "url": "http://43.229.79.123/api/mobile/DATA/GTASGTASAMP10.b",
       "gpu": "all"
     },
     {
       "name": "gta_sa.set",
       "size": "167",
-      "path": "game/gta_sa.set",
+      "path": "gta_sa.set",
       "url": "http://43.229.79.123/api/mobile/DATA/gta_sa.set",
       "gpu": "all"
     },
@@ -1767,7 +1767,7 @@
     {
       "name": "stream.ini",
       "size": "197",
-      "path": "game/stream.ini",
+      "path": "stream.ini",
       "url": "http://43.229.79.123/api/mobile/DATA/stream.ini",
       "gpu": "all"
     },
@@ -2103,7 +2103,7 @@
     {
       "name": "vehicleAudioSettings.cfg",
       "size": "56871",
-      "path": "game/vehicleAudioSettings.cfg",
+      "path": "vehicleAudioSettings.cfg",
       "url": "http://43.229.79.123/api/mobile/DATA/vehicleAudioSettings.cfg",
       "gpu": "all"
     }

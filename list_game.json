@@ -2477,6 +2477,20 @@
       "path": "vehicleAudioSettings.cfg",
       "url": "http://43.229.79.123/api/mobile/DATA/vehicleAudioSettings.cfg",
       "gpu": "all"
+    },
+    {
+      "name": "arial_bold.ttf",
+      "size": "104820",
+      "path": "fonts/arial_bold.ttf",
+      "url": "http://43.229.79.123/api/mobile/DATA/fonts/arial_bold.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "gtaweap3.ttf",
+      "size": "104004",
+      "path": "fonts/gtaweap3.ttf",
+      "url": "http://43.229.79.123/api/mobile/DATA/fonts/gtaweap3.ttf",
+      "gpu": "all"
     }
   ]
 }

@@ -2270,7 +2270,7 @@
     },
     {
       "name": "samp.dxt.dat",
-      "size": "22341548",
+      "size": "20544010",
       "path": "texdb/samp/samp.dxt.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.dat",
       "gpu": "dxt"
@@ -2291,28 +2291,28 @@
     },
     {
       "name": "samp.etc.dat",
-      "size": "33476356",
+      "size": "33583364",
       "path": "texdb/samp/samp.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.dat",
       "gpu": "etc"
     },
     {
       "name": "samp.etc.tmb",
-      "size": "21568",
+      "size": "21536",
       "path": "texdb/samp/samp.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.tmb",
       "gpu": "etc"
     },
     {
       "name": "samp.etc.toc",
-      "size": "6176",
+      "size": "6184",
       "path": "texdb/samp/samp.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.toc",
       "gpu": "etc"
     },
     {
       "name": "samp.pvr.dat",
-      "size": "14090948",
+      "size": "20591674",
       "path": "texdb/samp/samp.pvr.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.dat",
       "gpu": "pvr"
@@ -2333,7 +2333,7 @@
     },
     {
       "name": "samp.txt",
-      "size": "89594",
+      "size": "89764",
       "path": "texdb/samp/samp.txt",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.txt",
       "gpu": "all"

@@ -666,15 +666,8 @@
       "gpu": "all"
     },
     {
-      "name": "CUSTOM.ide",
-      "size": "141",
-      "path": "SAMP/CUSTOM.ide",
-      "url": "http://43.229.79.123/api/mobile/DATA/game/SAMP/CUSTOM.ide",
-      "gpu": "all"
-    },
-    {
       "name": "gta.dat",
-      "size": "3810",
+      "size": "3776",
       "path": "data/gta.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/data/gta.dat",
       "gpu": "all"
@@ -1737,8 +1730,15 @@
       "gpu": "all"
     },
     {
+      "name": "CUSTOM.ide",
+      "size": "141",
+      "path": "SAMP/CUSTOM.ide",
+      "url": "http://43.229.79.123/api/mobile/DATA/SAMP/CUSTOM.ide",
+      "gpu": "all"
+    },
+    {
       "name": "gta.dat",
-      "size": "3789",
+      "size": "3810",
       "path": "SAMP/gta.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/SAMP/gta.dat",
       "gpu": "all"
@@ -2290,71 +2290,169 @@
       "gpu": "all"
     },
     {
+      "name": "redicon00.dxt.dat",
+      "size": "7815000",
+      "path": "texdb/redicon00/redicon00.dxt.dat",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.dxt.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.dxt.tmb",
+      "size": "704",
+      "path": "texdb/redicon00/redicon00.dxt.tmb",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.dxt.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.dxt.toc",
+      "size": "44",
+      "path": "texdb/redicon00/redicon00.dxt.toc",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.dxt.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.etc.dat",
+      "size": "7815000",
+      "path": "texdb/redicon00/redicon00.etc.dat",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.etc.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.etc.tmb",
+      "size": "704",
+      "path": "texdb/redicon00/redicon00.etc.tmb",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.etc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.etc.toc",
+      "size": "44",
+      "path": "texdb/redicon00/redicon00.etc.toc",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.etc.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.pvr.dat",
+      "size": "7815000",
+      "path": "texdb/redicon00/redicon00.pvr.dat",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.pvr.tmb",
+      "size": "704",
+      "path": "texdb/redicon00/redicon00.pvr.tmb",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.pvr.toc",
+      "size": "44",
+      "path": "texdb/redicon00/redicon00.pvr.toc",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.txt",
+      "size": "742",
+      "path": "texdb/redicon00/redicon00.txt",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.unc.dat",
+      "size": "33150952",
+      "path": "texdb/redicon00/redicon00.unc.dat",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.unc.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.unc.tmb",
+      "size": "2720",
+      "path": "texdb/redicon00/redicon00.unc.tmb",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.unc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "redicon00.unc.toc",
+      "size": "6156",
+      "path": "texdb/redicon00/redicon00.unc.toc",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/redicon00/redicon00.unc.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "REDICON00.img",
+      "size": "50599936",
+      "path": "texdb/REDICON00.img",
+      "url": "http://43.229.79.123/api/mobile/DATA/texdb/REDICON00.img",
+      "gpu": "all"
+    },
+    {
       "name": "samp.dxt.dat",
-      "size": "22341548",
+      "size": "22681758",
       "path": "texdb/samp/samp.dxt.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.dat",
       "gpu": "all"
     },
     {
       "name": "samp.dxt.tmb",
-      "size": "21568",
+      "size": "21728",
       "path": "texdb/samp/samp.dxt.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.dxt.toc",
-      "size": "6176",
+      "size": "6184",
       "path": "texdb/samp/samp.dxt.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.toc",
       "gpu": "all"
     },
     {
       "name": "samp.etc.dat",
-      "size": "33476356",
+      "size": "33816566",
       "path": "texdb/samp/samp.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.dat",
       "gpu": "all"
     },
     {
       "name": "samp.etc.tmb",
-      "size": "21568",
+      "size": "21728",
       "path": "texdb/samp/samp.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.etc.toc",
-      "size": "6176",
+      "size": "6184",
       "path": "texdb/samp/samp.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.toc",
       "gpu": "all"
     },
     {
       "name": "samp.pvr.dat",
-      "size": "14090948",
+      "size": "14431158",
       "path": "texdb/samp/samp.pvr.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.dat",
       "gpu": "all"
     },
     {
       "name": "samp.pvr.tmb",
-      "size": "21568",
+      "size": "21728",
       "path": "texdb/samp/samp.pvr.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.pvr.toc",
-      "size": "6176",
+      "size": "6184",
       "path": "texdb/samp/samp.pvr.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.toc",
       "gpu": "all"
     },
     {
       "name": "samp.txt",
-      "size": "89594",
+      "size": "89766",
       "path": "texdb/samp/samp.txt",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.txt",
       "gpu": "all"
@@ -2368,7 +2466,7 @@
     },
     {
       "name": "samp.unc.tmb",
-      "size": "22528",
+      "size": "23072",
       "path": "texdb/samp/samp.unc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.unc.tmb",
       "gpu": "all"

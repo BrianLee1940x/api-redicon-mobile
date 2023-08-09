@@ -1653,17 +1653,17 @@
       "gpu": "all"
     },
     {
-      "name": "fastman92limitAdjuster_GTASA.ini",
-      "size": "5730",
-      "path": "fastman92limitAdjuster_GTASA.ini",
-      "url": "http://43.229.79.123/api/mobile/DATA/fastman92limitAdjuster_GTASA.ini",
+      "name": "arial_bold.ttf",
+      "size": "104820",
+      "path": "fonts/arial_bold.ttf",
+      "url": "http://43.229.79.123/api/mobile/DATA/fonts/arial_bold.ttf",
       "gpu": "all"
     },
     {
-      "name": "GTASAMP10.b",
-      "size": "195000",
-      "path": "GTASAMP10.b",
-      "url": "http://43.229.79.123/api/mobile/DATA/GTASAMP10.b",
+      "name": "gtaweap3.ttf",
+      "size": "104004",
+      "path": "fonts/gtaweap3.ttf",
+      "url": "http://43.229.79.123/api/mobile/DATA/fonts/gtaweap3.ttf",
       "gpu": "all"
     },
     {
@@ -1671,6 +1671,13 @@
       "size": "392",
       "path": "gtasatelem.set",
       "url": "http://43.229.79.123/api/mobile/DATA/gtasatelem.set",
+      "gpu": "all"
+    },
+    {
+      "name": "GTASGTASAMP10.b",
+      "size": "195000",
+      "path": "GTASGTASAMP10.b",
+      "url": "http://43.229.79.123/api/mobile/DATA/GTASGTASAMP10.b",
       "gpu": "all"
     },
     {
@@ -1800,67 +1807,25 @@
       "gpu": "all"
     },
     {
-      "name": "cutscene.dxt.dat",
-      "size": "5731070",
-      "path": "texdb/cutscene/cutscene.dxt.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.dxt.dat",
-      "gpu": "dxt"
-    },
-    {
-      "name": "cutscene.dxt.tmb",
-      "size": "19440",
-      "path": "texdb/cutscene/cutscene.dxt.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.dxt.tmb",
-      "gpu": "dxt"
-    },
-    {
-      "name": "cutscene.dxt.toc",
-      "size": "1628",
-      "path": "texdb/cutscene/cutscene.dxt.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.dxt.toc",
-      "gpu": "dxt"
-    },
-    {
       "name": "cutscene.etc.dat",
       "size": "5482370",
       "path": "texdb/cutscene/cutscene.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.etc.dat",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "cutscene.etc.tmb",
       "size": "20784",
       "path": "texdb/cutscene/cutscene.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.etc.tmb",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "cutscene.etc.toc",
       "size": "1628",
       "path": "texdb/cutscene/cutscene.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.etc.toc",
-      "gpu": "etc"
-    },
-    {
-      "name": "cutscene.pvr.dat",
-      "size": "3614492",
-      "path": "texdb/cutscene/cutscene.pvr.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.pvr.dat",
-      "gpu": "pvr"
-    },
-    {
-      "name": "cutscene.pvr.tmb",
-      "size": "30608",
-      "path": "texdb/cutscene/cutscene.pvr.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.pvr.tmb",
-      "gpu": "pvr"
-    },
-    {
-      "name": "cutscene.pvr.toc",
-      "size": "1628",
-      "path": "texdb/cutscene/cutscene.pvr.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/cutscene/cutscene.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "cutscene.txt",
@@ -1884,67 +1849,25 @@
       "gpu": "all"
     },
     {
-      "name": "gta3.dxt.dat",
-      "size": "185311596",
-      "path": "texdb/gta3/gta3.dxt.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.dxt.dat",
-      "gpu": "dxt"
-    },
-    {
-      "name": "gta3.dxt.tmb",
-      "size": "525340",
-      "path": "texdb/gta3/gta3.dxt.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.dxt.tmb",
-      "gpu": "dxt"
-    },
-    {
-      "name": "gta3.dxt.toc",
-      "size": "49784",
-      "path": "texdb/gta3/gta3.dxt.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.dxt.toc",
-      "gpu": "dxt"
-    },
-    {
       "name": "gta3.etc.dat",
       "size": "185725552",
       "path": "texdb/gta3/gta3.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.etc.dat",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "gta3.etc.tmb",
       "size": "575452",
       "path": "texdb/gta3/gta3.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.etc.tmb",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "gta3.etc.toc",
       "size": "49784",
       "path": "texdb/gta3/gta3.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.etc.toc",
-      "gpu": "etc"
-    },
-    {
-      "name": "gta3.pvr.dat",
-      "size": "115205762",
-      "path": "texdb/gta3/gta3.pvr.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.pvr.dat",
-      "gpu": "pvr"
-    },
-    {
-      "name": "gta3.pvr.tmb",
-      "size": "794396",
-      "path": "texdb/gta3/gta3.pvr.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.pvr.tmb",
-      "gpu": "pvr"
-    },
-    {
-      "name": "gta3.pvr.toc",
-      "size": "49784",
-      "path": "texdb/gta3/gta3.pvr.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta3/gta3.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "gta3.txt",
@@ -1968,67 +1891,25 @@
       "gpu": "all"
     },
     {
-      "name": "gta_int.dxt.dat",
-      "size": "48496978",
-      "path": "texdb/gta_int/gta_int.dxt.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.dxt.dat",
-      "gpu": "dxt"
-    },
-    {
-      "name": "gta_int.dxt.tmb",
-      "size": "125994",
-      "path": "texdb/gta_int/gta_int.dxt.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.dxt.tmb",
-      "gpu": "dxt"
-    },
-    {
-      "name": "gta_int.dxt.toc",
-      "size": "10168",
-      "path": "texdb/gta_int/gta_int.dxt.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.dxt.toc",
-      "gpu": "dxt"
-    },
-    {
       "name": "gta_int.etc.dat",
       "size": "48441188",
       "path": "texdb/gta_int/gta_int.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.etc.dat",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "gta_int.etc.tmb",
       "size": "141674",
       "path": "texdb/gta_int/gta_int.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.etc.tmb",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "gta_int.etc.toc",
       "size": "10168",
       "path": "texdb/gta_int/gta_int.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.etc.toc",
-      "gpu": "etc"
-    },
-    {
-      "name": "gta_int.pvr.dat",
-      "size": "29595400",
-      "path": "texdb/gta_int/gta_int.pvr.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.pvr.dat",
-      "gpu": "pvr"
-    },
-    {
-      "name": "gta_int.pvr.tmb",
-      "size": "188330",
-      "path": "texdb/gta_int/gta_int.pvr.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.pvr.tmb",
-      "gpu": "pvr"
-    },
-    {
-      "name": "gta_int.pvr.toc",
-      "size": "10168",
-      "path": "texdb/gta_int/gta_int.pvr.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/gta_int/gta_int.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "gta_int.txt",
@@ -2056,63 +1937,63 @@
       "size": "7799478",
       "path": "texdb/menu/menu.dxt.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.dxt.dat",
-      "gpu": "dxt"
+      "gpu": "all"
     },
     {
       "name": "menu.dxt.tmb",
       "size": "860",
       "path": "texdb/menu/menu.dxt.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.dxt.tmb",
-      "gpu": "dxt"
+      "gpu": "all"
     },
     {
       "name": "menu.dxt.toc",
       "size": "176",
       "path": "texdb/menu/menu.dxt.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.dxt.toc",
-      "gpu": "dxt"
+      "gpu": "all"
     },
     {
       "name": "menu.etc.dat",
       "size": "10822324",
       "path": "texdb/menu/menu.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.etc.dat",
-      "gpu": "v"
+      "gpu": "all"
     },
     {
       "name": "menu.etc.tmb",
       "size": "860",
       "path": "texdb/menu/menu.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.etc.tmb",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "menu.etc.toc",
       "size": "176",
       "path": "texdb/menu/menu.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.etc.toc",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "menu.pvr.dat",
       "size": "10822324",
       "path": "texdb/menu/menu.pvr.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.pvr.dat",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "menu.pvr.tmb",
       "size": "860",
       "path": "texdb/menu/menu.pvr.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.pvr.tmb",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "menu.pvr.toc",
       "size": "176",
       "path": "texdb/menu/menu.pvr.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/menu/menu.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "menu.txt",
@@ -2129,67 +2010,25 @@
       "gpu": "all"
     },
     {
-      "name": "mobile.dxt.dat",
-      "size": "7267946",
-      "path": "texdb/mobile/mobile.dxt.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.dxt.dat",
-      "gpu": "dxt"
-    },
-    {
-      "name": "mobile.dxt.tmb",
-      "size": "3940",
-      "path": "texdb/mobile/mobile.dxt.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.dxt.tmb",
-      "gpu": "dxt"
-    },
-    {
-      "name": "mobile.dxt.toc",
-      "size": "792",
-      "path": "texdb/mobile/mobile.dxt.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.dxt.toc",
-      "gpu": "dxt"
-    },
-    {
       "name": "mobile.etc.dat",
       "size": "8712314",
       "path": "texdb/mobile/mobile.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.etc.dat",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "mobile.etc.tmb",
       "size": "3940",
       "path": "texdb/mobile/mobile.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.etc.tmb",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "mobile.etc.toc",
       "size": "792",
       "path": "texdb/mobile/mobile.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.etc.toc",
-      "gpu": "etc"
-    },
-    {
-      "name": "mobile.pvr.dat",
-      "size": "8712314",
-      "path": "texdb/mobile/mobile.pvr.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.pvr.dat",
-      "gpu": "pvr"
-    },
-    {
-      "name": "mobile.pvr.tmb",
-      "size": "3940",
-      "path": "texdb/mobile/mobile.pvr.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.pvr.tmb",
-      "gpu": "pvr"
-    },
-    {
-      "name": "mobile.pvr.toc",
-      "size": "792",
-      "path": "texdb/mobile/mobile.pvr.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/mobile/mobile.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "mobile.txt",
@@ -2210,21 +2049,21 @@
       "size": "6569414",
       "path": "texdb/player/player.pvr.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/player/player.pvr.dat",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "player.pvr.tmb",
       "size": "6940",
       "path": "texdb/player/player.pvr.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/player/player.pvr.tmb",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "player.pvr.toc",
       "size": "1580",
       "path": "texdb/player/player.pvr.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/player/player.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "player.txt",
@@ -2245,21 +2084,21 @@
       "size": "27658902",
       "path": "texdb/playerhi/playerhi.pvr.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/playerhi/playerhi.pvr.dat",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "playerhi.pvr.tmb",
       "size": "6940",
       "path": "texdb/playerhi/playerhi.pvr.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/playerhi/playerhi.pvr.tmb",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "playerhi.pvr.toc",
       "size": "1580",
       "path": "texdb/playerhi/playerhi.pvr.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/playerhi/playerhi.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "playerhi.txt",
@@ -2270,91 +2109,91 @@
     },
     {
       "name": "samp.dxt.dat",
-      "size": "20544010",
+      "size": "22506700",
       "path": "texdb/samp/samp.dxt.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.dat",
-      "gpu": "dxt"
+      "gpu": "all"
     },
     {
       "name": "samp.dxt.tmb",
-      "size": "21568",
+      "size": "23072",
       "path": "texdb/samp/samp.dxt.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.tmb",
-      "gpu": "dxt"
+      "gpu": "all"
     },
     {
       "name": "samp.dxt.toc",
-      "size": "6176",
+      "size": "6184",
       "path": "texdb/samp/samp.dxt.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.toc",
-      "gpu": "dxt"
+      "gpu": "all"
     },
     {
       "name": "samp.etc.dat",
-      "size": "33583364",
+      "size": "33650836",
       "path": "texdb/samp/samp.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.dat",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "samp.etc.tmb",
-      "size": "21536",
+      "size": "23072",
       "path": "texdb/samp/samp.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.tmb",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "samp.etc.toc",
       "size": "6184",
       "path": "texdb/samp/samp.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.toc",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "samp.pvr.dat",
-      "size": "20591674",
+      "size": "14431744",
       "path": "texdb/samp/samp.pvr.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.dat",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "samp.pvr.tmb",
-      "size": "21568",
+      "size": "23072",
       "path": "texdb/samp/samp.pvr.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.tmb",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "samp.pvr.toc",
-      "size": "6176",
+      "size": "6184",
       "path": "texdb/samp/samp.pvr.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "samp.txt",
-      "size": "89764",
+      "size": "91334",
       "path": "texdb/samp/samp.txt",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.txt",
       "gpu": "all"
     },
     {
       "name": "samp.unc.dat",
-      "size": "33150952",
+      "size": "33650836",
       "path": "texdb/samp/samp.unc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.unc.dat",
       "gpu": "all"
     },
     {
       "name": "samp.unc.tmb",
-      "size": "22528",
+      "size": "23072",
       "path": "texdb/samp/samp.unc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.unc.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.unc.toc",
-      "size": "6156",
+      "size": "6184",
       "path": "texdb/samp/samp.unc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.unc.toc",
       "gpu": "all"
@@ -2395,67 +2234,25 @@
       "gpu": "all"
     },
     {
-      "name": "txd.dxt.dat",
-      "size": "7625578",
-      "path": "texdb/txd/txd.dxt.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.dxt.dat",
-      "gpu": "dxt"
-    },
-    {
-      "name": "txd.dxt.tmb",
-      "size": "31028",
-      "path": "texdb/txd/txd.dxt.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.dxt.tmb",
-      "gpu": "dxt"
-    },
-    {
-      "name": "txd.dxt.toc",
-      "size": "2376",
-      "path": "texdb/txd/txd.dxt.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.dxt.toc",
-      "gpu": "dxt"
-    },
-    {
       "name": "txd.etc.dat",
       "size": "9422056",
       "path": "texdb/txd/txd.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.etc.dat",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "txd.etc.tmb",
       "size": "49460",
       "path": "texdb/txd/txd.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.etc.tmb",
-      "gpu": "etc"
+      "gpu": "all"
     },
     {
       "name": "txd.etc.toc",
       "size": "2376",
       "path": "texdb/txd/txd.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.etc.toc",
-      "gpu": "etc"
-    },
-    {
-      "name": "txd.pvr.dat",
-      "size": "7716880",
-      "path": "texdb/txd/txd.pvr.dat",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.pvr.dat",
-      "gpu": "pvr"
-    },
-    {
-      "name": "txd.pvr.tmb",
-      "size": "25204",
-      "path": "texdb/txd/txd.pvr.tmb",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.pvr.tmb",
-      "gpu": "pvr"
-    },
-    {
-      "name": "txd.pvr.toc",
-      "size": "2376",
-      "path": "texdb/txd/txd.pvr.toc",
-      "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.pvr.toc",
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "txd.txt",
@@ -2469,27 +2266,6 @@
       "size": "59636",
       "path": "texdb/txd/txd.unc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/txd/txd.unc.tmb",
-      "gpu": "all"
-    },
-    {
-      "name": "vehicleAudioSettings.cfg",
-      "size": "51128",
-      "path": "vehicleAudioSettings.cfg",
-      "url": "http://43.229.79.123/api/mobile/DATA/vehicleAudioSettings.cfg",
-      "gpu": "all"
-    },
-    {
-      "name": "arial_bold.ttf",
-      "size": "104820",
-      "path": "fonts/arial_bold.ttf",
-      "url": "http://43.229.79.123/api/mobile/DATA/fonts/arial_bold.ttf",
-      "gpu": "all"
-    },
-    {
-      "name": "gtaweap3.ttf",
-      "size": "104004",
-      "path": "fonts/gtaweap3.ttf",
-      "url": "http://43.229.79.123/api/mobile/DATA/fonts/gtaweap3.ttf",
       "gpu": "all"
     }
   ]

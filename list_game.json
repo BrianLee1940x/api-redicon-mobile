@@ -666,8 +666,15 @@
       "gpu": "all"
     },
     {
+      "name": "CUSTOM.ide",
+      "size": "141",
+      "path": "SAMP/CUSTOM.ide",
+      "url": "http://43.229.79.123/api/mobile/DATA/game/SAMP/CUSTOM.ide",
+      "gpu": "all"
+    },
+    {
       "name": "gta.dat",
-      "size": "3776",
+      "size": "3810",
       "path": "data/gta.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/data/gta.dat",
       "gpu": "all"

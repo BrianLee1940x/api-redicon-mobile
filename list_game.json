@@ -673,13 +673,6 @@
       "gpu": "all"
     },
     {
-      "name": "CUSTOM.ide",
-      "size": "141",
-      "path": "SAMP/CUSTOM.ide",
-      "url": "http://43.229.79.123/api/mobile/DATA/game/SAMP/CUSTOM.ide",
-      "gpu": "all"
-    },
-    {
       "name": "handling.cfg",
       "size": "64532",
       "path": "data/handling.cfg",
@@ -1661,7 +1654,7 @@
     },
     {
       "name": "fastman92limitAdjuster_GTASA.ini",
-      "size": "5904",
+      "size": "5730",
       "path": "fastman92limitAdjuster_GTASA.ini",
       "url": "http://43.229.79.123/api/mobile/DATA/fastman92limitAdjuster_GTASA.ini",
       "gpu": "all"
@@ -1738,7 +1731,7 @@
     },
     {
       "name": "gta.dat",
-      "size": "3810",
+      "size": "3789",
       "path": "SAMP/gta.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/SAMP/gta.dat",
       "gpu": "all"
@@ -2291,70 +2284,70 @@
     },
     {
       "name": "samp.dxt.dat",
-      "size": "22681758",
+      "size": "22341548",
       "path": "texdb/samp/samp.dxt.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.dat",
       "gpu": "all"
     },
     {
       "name": "samp.dxt.tmb",
-      "size": "21728",
+      "size": "21568",
       "path": "texdb/samp/samp.dxt.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.dxt.toc",
-      "size": "6184",
+      "size": "6176",
       "path": "texdb/samp/samp.dxt.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.dxt.toc",
       "gpu": "all"
     },
     {
       "name": "samp.etc.dat",
-      "size": "33816566",
+      "size": "33476356",
       "path": "texdb/samp/samp.etc.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.dat",
       "gpu": "all"
     },
     {
       "name": "samp.etc.tmb",
-      "size": "21728",
+      "size": "21568",
       "path": "texdb/samp/samp.etc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.etc.toc",
-      "size": "6184",
+      "size": "6176",
       "path": "texdb/samp/samp.etc.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.etc.toc",
       "gpu": "all"
     },
     {
       "name": "samp.pvr.dat",
-      "size": "14431158",
+      "size": "14090948",
       "path": "texdb/samp/samp.pvr.dat",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.dat",
       "gpu": "all"
     },
     {
       "name": "samp.pvr.tmb",
-      "size": "21728",
+      "size": "21568",
       "path": "texdb/samp/samp.pvr.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.tmb",
       "gpu": "all"
     },
     {
       "name": "samp.pvr.toc",
-      "size": "6184",
+      "size": "6176",
       "path": "texdb/samp/samp.pvr.toc",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.pvr.toc",
       "gpu": "all"
     },
     {
       "name": "samp.txt",
-      "size": "89766",
+      "size": "89594",
       "path": "texdb/samp/samp.txt",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.txt",
       "gpu": "all"
@@ -2368,7 +2361,7 @@
     },
     {
       "name": "samp.unc.tmb",
-      "size": "23072",
+      "size": "22528",
       "path": "texdb/samp/samp.unc.tmb",
       "url": "http://43.229.79.123/api/mobile/DATA/texdb/samp/samp.unc.tmb",
       "gpu": "all"
